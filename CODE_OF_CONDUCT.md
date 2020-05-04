@@ -35,6 +35,6 @@ mails.
 
 ## Execution
 
-If you find any inappropriate actions, please send to our email list: https://groups.google.com/forum/#!forum/python-tornado. 
+If you find any inappropriate actions, please send to our [email list](https://groups.google.com/forum/#!forum/python-tornado). 
 We will review all reports, investigate situations, and provide feedbacks (conduct panelties).
 
