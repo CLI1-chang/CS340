@@ -23,7 +23,7 @@ We encourage your report covers:
 * Include a summary about the background
 * Be specific about the description of the bug or issue
 * Provide code examples if possible
-* Describe what is suppose to work and what acrually works
+* Describe what is supposed to work and what actually works
 * Write note is anything else you want to address
 
 ## Pull Requests
@@ -32,7 +32,7 @@ Pull requests are the best choice to propose any changes to our project.
 
 We encourage your to do:
 * Fork the repo and create your branch from `master`.
-* Test your code before add it to the brach
+* Test your code before add it to the branch
 * Provide tests with your code
 * Make sure your code passes test suite
 * Ensure your code lints
@@ -41,7 +41,7 @@ We encourage your to do:
 
 ## Code Style
 
-Please read through our exsiting code for code style reference. 
+Please read through our existing code for code style reference. 
 And follow the [style guideline](https://www.python.org/dev/peps/pep-0008/).
 
 Specific guidelines:
@@ -50,8 +50,7 @@ Specific guidelines:
 
 ## License
 
-All contributions are licensed under Apache License Version 2.0. If your contribute to tornado, it mains that you agree contributions
-you made is under this license.
+All contributions are licensed under Apache License Version 2.0. If you contribute to tornado, it means that you agree contributions you made are under this license.
 
 ## Reference
 
